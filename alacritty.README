@@ -1,0 +1,10 @@
+Alacritty terminal emulator test suite files.
+
+``` sh
+git clone git@github.com:alacritty/alacritty.git
+find alacritty \
+    -name '*.recording' \
+    -exec sh -c \
+      "cp {} corpus-alacritty/\$(basename \$(dirname {}))" \
+    \;
+```

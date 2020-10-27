@@ -1,0 +1,9 @@
+[1;1H[1"qabcdefgh
+[0"qijklmnop
+[1"qqrstuvwx
+[0"qyz012345
+[1"qABCDEFGH
+[0"qIJKLMNOP
+[1"qQRSTUVWX
+[0"qYZ6789!@
+[0"q[?69h[3;6s[3;6r[5;5;7;7${[?69l[r

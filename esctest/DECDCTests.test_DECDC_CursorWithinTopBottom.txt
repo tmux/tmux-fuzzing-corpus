@@ -1,0 +1,4 @@
+[r[?69h[1;20s[1;1Habcdefg
+ABCDEFG
+zyxwvut
+ZYXWVUT[2;3r[2;2H[2'~[r[?69l
